@@ -1,6 +1,6 @@
 package com.jm.lostarkopenapigateway.framework.support.menu.dto;
 
-import com.jm.lostarkapi.framework.support.menu.domain.MenuMng;
+import com.jm.lostarkopenapigateway.framework.support.menu.domain.MenuMng;
 import lombok.*;
 
 import java.util.List;

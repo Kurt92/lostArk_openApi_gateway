@@ -1,8 +1,8 @@
 package com.jm.lostarkopenapigateway.framework.support.menu.service;
 
-import com.jm.lostarkapi.framework.support.menu.domain.MenuMngRepository;
-import com.jm.lostarkapi.framework.support.menu.dto.MenuTreeDTO;
-import com.jm.lostarkapi.framework.support.menu.repository.MenuQueryDslRepository;
+import com.jm.lostarkopenapigateway.framework.support.menu.domain.MenuMngRepository;
+import com.jm.lostarkopenapigateway.framework.support.menu.dto.MenuTreeDTO;
+import com.jm.lostarkopenapigateway.framework.support.menu.repository.MenuQueryDslRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

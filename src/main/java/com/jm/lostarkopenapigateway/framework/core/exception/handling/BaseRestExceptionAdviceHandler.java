@@ -1,6 +1,6 @@
 package com.jm.lostarkopenapigateway.framework.core.exception.handling;
 
-import com.jm.lostarkapi.framework.core.exception.BaseException;
+import com.jm.lostarkopenapigateway.framework.core.exception.BaseException;
 import org.hibernate.exception.ConstraintViolationException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -3,10 +3,10 @@ package com.jm.lostarkopenapigateway.framework.core.response;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.jm.lostarkapi.framework.core.exception.BaseException;
-import com.jm.lostarkapi.framework.core.exception.ErrorCode;
-import com.jm.lostarkapi.framework.core.util.Checks;
-import com.jm.lostarkapi.framework.core.util.gson.LocalDateTimeTypeAdapter;
+import com.jm.lostarkopenapigateway.framework.core.exception.BaseException;
+import com.jm.lostarkopenapigateway.framework.core.exception.ErrorCode;
+import com.jm.lostarkopenapigateway.framework.core.util.Checks;
+import com.jm.lostarkopenapigateway.framework.core.util.gson.LocalDateTimeTypeAdapter;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;

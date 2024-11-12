@@ -1,9 +1,9 @@
 package com.jm.lostarkopenapigateway.framework.support.menu.repository;
 
 
-import com.jm.lostarkapi.framework.support.menu.domain.MenuMng;
-import com.jm.lostarkapi.framework.support.menu.domain.QMenuMng;
-import com.jm.lostarkapi.framework.support.menu.dto.MenuTreeDTO;
+import com.jm.lostarkopenapigateway.framework.support.menu.domain.MenuMng;
+import com.jm.lostarkopenapigateway.framework.support.menu.domain.QMenuMng;
+import com.jm.lostarkopenapigateway.framework.support.menu.dto.MenuTreeDTO;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static com.jm.lostarkapi.framework.support.menu.domain.QMenuMng.menuMng;
+import static com.jm.lostarkopenapigateway.framework.support.menu.domain.QMenuMng.menuMng;
 
 @Repository
 @RequiredArgsConstructor

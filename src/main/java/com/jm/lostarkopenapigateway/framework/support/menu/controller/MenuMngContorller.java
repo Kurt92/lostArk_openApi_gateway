@@ -1,8 +1,8 @@
 package com.jm.lostarkopenapigateway.framework.support.menu.controller;
 
-import com.jm.lostarkapi.framework.core.response.IRestResponse;
-import com.jm.lostarkapi.framework.core.response.RestResponse;
-import com.jm.lostarkapi.framework.support.menu.service.MenuMngService;
+import com.jm.lostarkopenapigateway.framework.core.response.IRestResponse;
+import com.jm.lostarkopenapigateway.framework.core.response.RestResponse;
+import com.jm.lostarkopenapigateway.framework.support.menu.service.MenuMngService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
